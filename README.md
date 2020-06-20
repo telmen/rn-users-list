@@ -1,3 +1,5 @@
-# Take-home assignment
+# User list (Take-home assignment)
 
+## Screenshots
 
+![screenshots](screenshots.png)
